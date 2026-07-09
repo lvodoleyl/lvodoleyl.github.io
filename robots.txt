@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://lvodoleyl.github.io/sitemap.xml
