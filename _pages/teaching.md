@@ -7,6 +7,14 @@ nav: true
 nav_order: 4
 ---
 
+#### Teacher Assistant, "CSC 475/575: Music Retrieval Techniques"
+**University of Victoria**, Victoria, BC, Canada  
+*Fall 2026*   
+**Instructor**: George Tzanetakis  
+
+
+<br>
+
 #### Teacher Assistant, "CSC 330: Programming Languages"
 **University of Victoria**, Victoria, BC, Canada  
 *Summer 2026*   
