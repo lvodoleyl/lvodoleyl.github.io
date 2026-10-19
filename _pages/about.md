@@ -30,7 +30,7 @@ latest_posts:
 
 ## About Me
 
-**ML/AI Engineer** with 5+ years of industry experience (**Speech technologies**: ASR and TTS systems, speech processing; **Text Mining**: NLU/NLP, streaming clustering, named entity recognition, automatic summarization, RAG systems and work with LLM; **AI in logistics**: methods of operations research and machine learning for automation of dispatchers).
+**ML/AI Engineer** with 5+ years of industry experience (**Speech technologies**: ASR and TTS systems, speech processing; **Text Mining**: NLU/NLP, streaming clustering, named entity recognition, automatic summarization, RAG systems and LLM-based systems; **AI in logistics**: methods of operations research and machine learning for automation of dispatchers).
 
 **PhD student** in *Music Intelligence and Sound Technology Interdisciplinary Centre (MISTIC)* at **University of Victoria** in **Computer Science** (**MIR & Computational Musicology**), advised by [George Tzanetakis](https://webhome.csc.uvic.ca/~gtzan/). The main research interests: representation learning, metric learning, musical stylometry, music signal processing, and speech technology.
 

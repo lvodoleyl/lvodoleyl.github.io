@@ -24,6 +24,14 @@ My research focuses on **Music Information Retrieval (MIR)**. Specifically, I am
 
 ### Conference Papers
 
+
+**\[EN\] Injecting Label Structure Into Embedding Space for Ordinal and Circular Speech Classification**   
+Abrosimov, K., Dufour, I., Tzanetakis, G.  
+*Multi-disciplinary Trends in Artificial Intelligence. MIWAI 2026. Lecture Notes in Computer Science, vol 17147. Springer, Singapore, 2026*  
+[[PDF]]({{ '/assets/pdf/miwai2026.pdf' | relative_url }}) [[DOI]](https://doi.org/10.1007/978-981-92-6513-8_2)
+
+<br>
+
 **\[EN\] Linguistic Tools in Musical Stylometry**  
 Kirill Abrosimov, Alexander Grebennikov, George Tzanetakis, and Anna Sidorova  
 *Computational Humanities Research 2025*, Vol. 3, Anthology of Computers and the Humanities, 2025, pp. 623–634    
