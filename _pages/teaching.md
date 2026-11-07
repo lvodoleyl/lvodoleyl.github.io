@@ -6,7 +6,7 @@ description: Courses taught and student mentoring activities
 nav: true
 nav_order: 4
 ---
-gir
+
 ### Teacher Assistant  
 **University of Victoria**, Victoria, BC, Canada  
 
